@@ -4,5 +4,5 @@ if(confirm("¿Estás contento en clase?")){
 	alert("Me caes bien");
 } else {
 	//NO cumple la condición
-	alert("Mejor quedate en casasa");
+	alert("Entonces preguntale a él cómo hace las clase más divertida");
 }
